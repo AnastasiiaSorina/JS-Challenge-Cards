@@ -1,6 +1,6 @@
 # Slide
 
-![Illustration for the project](https://drive.google.com/file/d/1USKwuIbCA8BcLod7FgYbPTxt5I6XiElf/view?usp=sharing)
+![Illustration for the project](https://github.com/AnastasiiaSorina/Slide/blob/main/img.MP4)
 Slider.
 Organization of cards.
 Enlarge image on click.
