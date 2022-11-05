@@ -3,7 +3,7 @@
 Task for the next week:
 
 Create 5 interesting works. For a [Portfolio project](https://github.com/AnastasiiaSorina/Portfolio-Project).
-- [x] Cards
+- [x] [Cards](https://github.com/AnastasiiaSorina/JS-Challenge-Cards)
 - [ ] DragDrop
 - [ ] Slider 
 - [ ] Board
