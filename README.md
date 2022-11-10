@@ -3,7 +3,7 @@ Create 5 interesting works. For a [Portfolio project](https://github.com/Anastas
 - [x] [Cards](https://github.com/AnastasiiaSorina/JS-Challenge-Cards)
 - [x] [DragDrop](https://github.com/AnastasiiaSorina/JS-Challenge-DragDrop)
 - [x] [Slider](https://github.com/AnastasiiaSorina/JS-Challenge-Slider)
-- [ ] Board
+- [x] [Board](https://github.com/AnastasiiaSorina/JS-Challenge-Board)
 - [ ] Game 
 
 #  Project 1 | Cards
