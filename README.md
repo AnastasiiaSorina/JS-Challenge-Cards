@@ -4,7 +4,7 @@ Create 5 interesting works. For a [Portfolio project](https://github.com/Anastas
 - [x] [DragDrop](https://github.com/AnastasiiaSorina/JS-Challenge-DragDrop)
 - [x] [Slider](https://github.com/AnastasiiaSorina/JS-Challenge-Slider)
 - [x] [Board](https://github.com/AnastasiiaSorina/JS-Challenge-Board)
-- [ ] Game 
+- [ ] [Game](https://github.com/AnastasiiaSorina/JS-Challenge-Slider-Game) 
 
 #  Project 1 | Cards
 This Cards-slider with clickable images. When clicked, the image enlarges.
