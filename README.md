@@ -2,9 +2,9 @@
 Create 5 interesting works. For a [Portfolio project](https://github.com/AnastasiiaSorina/Portfolio-Project).
 - [x] [Cards](https://github.com/AnastasiiaSorina/JS-Challenge-Cards)
 - [x] [DragDrop](https://github.com/AnastasiiaSorina/JS-Challenge-DragDrop)
-- [x] [Slider](https://github.com/AnastasiiaSorina/JS-Challenge-Slider)
+- [x] [Slider](https://github.com/AnastasiiaSorina/JS-Challenge-Slider/blob/main/IMG_4257%20(2).gif)
 - [x] [Board](https://github.com/AnastasiiaSorina/JS-Challenge-Board)
-- [ ] [Game](https://github.com/AnastasiiaSorina/JS-Challenge-Slider-Game) 
+- [x] [Game](https://github.com/AnastasiiaSorina/JS-Challenge-Game) 
 
 #  Project 1 | Cards
 This Cards-slider with clickable images. When clicked, the image enlarges.
