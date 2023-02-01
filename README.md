@@ -13,7 +13,6 @@ Technologies used:
 - HTML & CSS
 - Java Script
 
-# Project 1 | Cards
 ![Illustration for the project](https://github.com/AnastasiiaSorina/Slide/blob/main/img.gif)
 
 Tasks for the coming weeks:
