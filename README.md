@@ -13,7 +13,7 @@ Technologies used:
 - HTML & CSS
 - Java Script
 
-![Illustration for the project](https://github.com/AnastasiiaSorina/Slide/blob/main/img.gif)
+![Illustration for the project](https://github.com/AnastasiiaSorina/Slide/blob/main/Project-1.gif)
 
 Tasks for the coming weeks:
 - [x] [DragDrop](https://github.com/AnastasiiaSorina/JS-Challenge-DragDrop)
